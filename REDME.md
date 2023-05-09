@@ -4,7 +4,7 @@
 
 * [✨1. Intro 🤓](https://github.com/Nnatt1/clon-interfas-Google/edit/main/REDME.md#1-intro)
 * [✨2. Qué construí 🛠](https://github.com/Nnatt1/clon-interfas-Google/edit/main/REDME.md#2-qu%C3%A9-constru%C3%AD)
-* [✨3. Objetivo del proyecto 🎯](https://github.com/Nnatt1/clon-interfas-Google/edit/main/REDME.md#3-objetivo-del-proyecto)
+* [✨3. Objetivo del proyecto 🎯](https://github.com/Nnatt1/clon-interfas-Google/edit/main/REDME.md#3-objetivo-del-proyecto.
 
 ****
 ## 1. Intro
